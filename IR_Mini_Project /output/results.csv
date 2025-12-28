@@ -1,0 +1,7 @@
+tweet,sentiment,positive,negative,neutral,compound
+i love this new phone battery life is amazing,Positive,0.533,0.0,0.467,0.8402
+terrible customer service waited  hours and no help,Negative,0.0,0.472,0.528,-0.6551
+its okay nothing special works fine i guess,Negative,0.177,0.358,0.465,-0.2382
+omg this movie was incredible best ever,Positive,0.428,0.0,0.572,0.6697
+lost my wallet today feeling so sad and stressed,Negative,0.097,0.579,0.324,-0.8154
+just another monday coffee please,Positive,0.365,0.0,0.635,0.3182
