@@ -1,10 +1,10 @@
 # Bachelor of Engineering (BE) - Lab Assignments
 
-This repository is a centralized collection of practical implementations and mini-projects developed during my final year of Bachelor of Engineering in Computer Science. It showcases a diverse range of technical skills, from core algorithm design to emerging technologies like Blockchain and Machine Learning.
+This repository is a comprehensive collection of practical implementations and mini-projects developed during my final year of Bachelor of Engineering in Computer Science. It demonstrates a strong foundation in core algorithms, alongside proficiency in emerging domains like Machine Learning and Blockchain.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vivek-salve-1b6364287/)
-[![Portfolio](https://img.shields.io/badge/GitHub-Profile-lightgrey?style=flat&logo=github)](https://github.com/VivekSalve2004)
-[![Language](https://img.shields.io/badge/Tech-Python_|_C++_|_Solidity-green)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vivek-salve-1b6364287/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey?style=for-the-badge&logo=github)](https://github.com/VivekSalve2004)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:viveksalve04@gmail.com)
 
 ---
 
@@ -55,9 +55,32 @@ The project is organized into domain-specific modules, each containing documente
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Execution Guide
 
-1. **Clone the repository:**
-   ```bash
+**Clone the repository:**
    git clone [https://github.com/VivekSalve2004/BE_Assignments.git](https://github.com/VivekSalve2004/BE_Assignments.git)
-      
+   
+### For Python/Data Science Tasks:
+* **Navigate to Labs:** Each folder is self-contained.
+* **Run Notebooks:** Launch Jupyter Notebook or VS Code and open any `.ipynb` file to view results and visualizations.
+
+### For Big Data/Hadoop Tasks (DSBDA):
+* **Hadoop Setup:** Refer to `HowToRunScalaProgram.docx` for environment setup.
+* **Infrastructure:** Hadoop implementations require a configured HDFS environment.
+
+### For Blockchain Tasks (BE_Assignments):
+* **Smart Contracts:** Open `.sol` files in the [Remix IDE](https://remix.ethereum.org/) for compilation and deployment.
+
+--- 
+
+## 🤝 Contact & Connect
+If you have any questions about these implementations or would like to discuss potential opportunities, feel free to reach out!
+
+* **Name:** Vivek Salve
+* **Role:** Computer Science Student | Linux System Programming Enthusiast
+* **Email:** [viveksalve04@gmail.com](mailto:viveksalve04@gmail.com)
+* **LinkedIn:** [linkedin.com/in/vivek-salve-1b6364287/](https://www.linkedin.com/in/vivek-salve-1b6364287/)
+* **GitHub:** [@VivekSalve2004](https://github.com/VivekSalve2004)
+
+---
+*Maintained as part of the Engineering Curriculum (2024-25).*
