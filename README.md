@@ -60,5 +60,4 @@ The project is organized into domain-specific modules, each containing documente
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/VivekSalve2004/BE_Assignments.git](https://github.com/VivekSalve2004/BE_Assignments.git)
-
-   
+      
